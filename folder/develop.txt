@@ -1,6 +1,6 @@
 
-Dev 01
-Dev 02
-Dev 03
-Dev 04
-Dev 05
+Develop: reset
+- dev: 01
+- dev: 02
+- dev: 03
+- dev: 04
